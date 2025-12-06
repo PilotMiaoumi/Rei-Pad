@@ -3,6 +3,7 @@ A custom macropad with a 3x3 matrix of switches, a 0.91" I2C OLED display, and 1
 This project was designed and modeled entirely for the Hack Club Blueprint program.
 
 ## Features
+```
 Quick Phrase - Types "I hate kittens."
 Save - Sends CTRL + S
 LEDTOG - Turns LEDs on or off
@@ -14,15 +15,19 @@ Paste - Sends CTRL + V
 Num7 - Sends Num7
 Cut - Sends CTRL + X
 Num9 - Sends Num9
+```
 
 ## Planned Features:
+```
 Interface with OLED Support
 Options to create macros without having to code
 WLED-like LED settings and animations
 Clipboard Indicator
 Icons & Animations
+```
 
 ## System Layout
+```
 Switches:
 Row 0 - GPIO26
 Row 1 - GPIO27
@@ -42,6 +47,7 @@ GPIO3 - LEDData (DIN)
 Pin 1 DOUT - Pin 2 DIN
 VDD - 5V
 VSS - GND
+```
 
 ## Structure
 ```
