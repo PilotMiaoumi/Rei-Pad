@@ -44,7 +44,8 @@ VDD - 5V
 VSS - GND
 
 ## Structure
-zuras-hackpad/
+```
+RP-00/
 ├── CAD/
 │   ├── Bottom Case.step
 │   ├── Top Case.step
@@ -66,6 +67,7 @@ zuras-hackpad/
 │   ├── Schematic.png
 │   └── Top Case.png
 └── README.md
+```
 
 ## Screenshots
 ![RP-00 Schematic](Images/Schematic.png)
