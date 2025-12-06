@@ -88,5 +88,7 @@ RP-00/
 
 ## Credits
 Created by me (Miaoumi)
+
 Made with KiCad, Autodesk Fusion
+
 thanks hack club for funding
