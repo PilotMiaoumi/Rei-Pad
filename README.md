@@ -1,5 +1,6 @@
 # RP-00
 A custom macropad with a 3x3 matrix of switches, a 0.91" I2C OLED display, and 12 SK6182 LEDs all powered by a Seeed XIAO RP2040 DIP.
+
 This project was designed and modeled entirely for the Hack Club Blueprint program.
 
 ## Features
@@ -88,5 +89,7 @@ RP-00/
 
 ## Credits
 Created by me (Miaoumi)
+
 Made with KiCad, Autodesk Fusion
+
 thanks hack club for funding
