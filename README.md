@@ -71,13 +71,13 @@ RP-00/
 
 ## Screenshots
 ![RP-00 Schematic](Images/Schematic.png)
-![RP-00 PCB Front](Images/PCB Front.png)
-![RP-00 PCB Back](Images/PCB Back.png)
-![RP-00 PCB Full](Images/PCB Full.png)
-![RP-00 DRC 1](Images/DRC 1.png)
-![RP-00 DRC 2](Images/DRC 2.png)
-![RP-00 Bottom Case](Images/Bottom Case.png)
-![RP-00 Top Case](Images/Top Case.png)
+![RP-00 PCB Front](Images/PCB%20Front.png)
+![RP-00 PCB Back](Images/PCB%20Back.png)
+![RP-00 PCB Full](Images/PCB%20Full.png)
+![RP-00 DRC 1](Images/DRC%201.png)
+![RP-00 DRC 2](Images/DRC%202.png)
+![RP-00 Bottom Case](Images/Bottom%20Case.png)
+![RP-00 Top Case](Images/Top%20Case.png)
 ![RP-00 Assembly](Images/Assembly.png)
 
 ## Credits
