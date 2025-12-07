@@ -57,10 +57,24 @@ RP-00/
 │   ├── Bottom Case.step
 │   ├── Top Case.step
 │   └── Assembly.step
-├── PCB/RP-00/
-│   ├── RP-00.kicad_pro
-│   ├── RP-00.kicad_sch
-│   └── RP-00.kicad_pcb
+├── PCB/
+│   ├── RP-00/
+│   │   ├── RP-00.kicad_pro
+│   │   ├── RP-00.kicad_sch
+│   │   └── RP-00.kicad_pcb
+│   ├── D+G/
+│   │   ├── RP-00-B_Cu.gbr
+│   │   ├── RP-00-B_Mask.gbr
+│   │   ├── RP-00-B_Paste.gbr
+│   │   ├── RP-00-B_Silkscreen.gbr
+│   │   ├── RP-00-Edge_Cuts.gbr
+│   │   ├── RP-00-F_Cu.gbr
+│   │   ├── RP-00-F_Paste.gbr
+│   │   ├── RP-00-F_Silkscreen.gbr
+│   │   ├── RP-00-job.gbr.job
+│   │   ├── RP-00-NPTH.drl
+│   │   └── RP-00-PTH.drl
+│   └── D+G.zip
 ├── Firmware/
 │   └── main.py
 ├── Images/
